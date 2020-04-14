@@ -29,3 +29,7 @@ my_num = 5
 '''print(10 % 3)'''
 print(my_num)
 print(4+5)
+'''show the greatest or lowest number'''
+print(max(4,6))
+
+print(min(8,9))
