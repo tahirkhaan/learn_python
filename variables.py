@@ -31,5 +31,8 @@ print(my_num)
 print(4+5)
 '''show the greatest or lowest number'''
 print(max(4,6))
-
+from math import *
 print(min(8,9))
+print(round(3.7))
+print(floor(3.4))
+print(sqrt(36))
