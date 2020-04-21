@@ -37,3 +37,9 @@ print(round(3.7))
 print(floor(3.4))
 print(sqrt(36))
 print(max(112, 220))
+
+'''Getting input from user'''
+name = input("Enter your Name: ")
+print("Hello" + name + "!")
+age = input("Enter your age:")
+print("my age is" + age + "!")
