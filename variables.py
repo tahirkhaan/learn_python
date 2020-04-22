@@ -40,6 +40,5 @@ print(max(112, 220))
 
 '''Getting input from user'''
 name = input("Enter your Name: ")
-print("Hello" + name + "!")
 age = input("Enter your age:")
-print("my age is" + age + "!")
+print("Hello" + name + "!you are" + age + "!")
