@@ -156,6 +156,3 @@ class student:
         con.close()
 
 
-root = Tk()
-ob = student(root)
-root.mainloop(
