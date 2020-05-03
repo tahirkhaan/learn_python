@@ -35,9 +35,7 @@ elif option < '5':
 
 
 num1 = float(input( "Please enter the first value: "))
-num2 = float(input( "Please enter the second value: "))
-
-
+num2 = float(input( "Please enter the second value: ")
 
 if choice == '1':
     print(num1, " + ", num2, "=", add(num1,num2))
