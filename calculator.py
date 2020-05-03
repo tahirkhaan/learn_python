@@ -45,8 +45,6 @@ if choice == '1':
 elif choice == '2':
     print(num1, " - ", num2, "=", min(num1, num2))
 
-elif choice == '3':
-    print(num1, " * ", num2, "=", mul(num1,num2))
 
 elif choice =='4':
     print(num1, " / ", num2, "=", div(num1, num2))
